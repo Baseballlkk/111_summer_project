@@ -10,3 +10,8 @@ To explore the roles of these effects, space-time power spectral ananlysis will 
 How can we using this skill to explore the characteristics of these effects?\
 Different experiments will be used to be analyzed.\
 Also, via this study, the main result is that these two effects will affect the coupled intensity and phase velocity.
+
+# After the Project
+
+The SRP is fully complete, there are some advenced program to do.\
+This program is to analysis the vertical heating profile with EOF analysis.
